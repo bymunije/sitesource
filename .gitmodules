@@ -4,3 +4,7 @@
 [submodule "themes/nuo"]
 	path = themes/nuo
 	url = https://github.com/laozhu/hugo-nuo
+[submodule "public"]
+	path = public
+	url = git@github.com:ripbandit/ripbandit.github.io.git
+	branch = master
