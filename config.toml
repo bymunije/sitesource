@@ -2,7 +2,7 @@ baseURL = "https://ripbandit.github.io"
 languageCode = "en-us"
 title = "Ripbandit's blog"
 theme = "nuo"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
 email = "ripbandit@protonmail.ch"
