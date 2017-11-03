@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="greyer-prism.svg"
+   id="svg4752"
+   version="1.1"
+   height="400"
+   width="616"
+   viewBox="0 0 616 400"
+   inkscape:version="0.92.1 r15371">
+  <sodipodi:namedview
+     inkscape:current-layer="svg4752"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="418.49921"
+     inkscape:cx="-27.599262"
+     inkscape:zoom="0.47637876"
+     showgrid="false"
+     id="namedview4754"
+     inkscape:window-height="1001"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata4758">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4756" />
+  <path
+     id="path4482"
+     d="M0 0h615.9v399.8h-615.9v-399.8z"
+     fill="#636363" />
+  <path
+     id="path4484"
+     fill="none"
+     d="M385 133.3h-.1.1z" />
+  <path
+     id="path4486"
+     d="M500.4 199.9h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+     fill="#616161" />
+  <path
+     id="path4488"
+     d="M346.4 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4490"
+     fill="none"
+     d="M462 133.3h-.1.1z" />
+  <path
+     id="path4492"
+     d="M423.4 199.9h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4494"
+     fill="none"
+     d="M231.1 133.3h-.1.1zm77 0h-.1.1z" />
+  <path
+     id="path4496"
+     d="M192.5 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#626262" />
+  <path
+     id="path4498"
+     d="M269.4 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#616161" />
+  <path
+     id="path4500"
+     fill="none"
+     d="M154.1 133.3h-.1.1z" />
+  <path
+     id="path4502"
+     d="M231.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4504"
+     d="M269.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#5e5e5e" />
+  <path
+     id="path4506"
+     fill="none"
+     d="M269.6 199.9h-.1.1zm153.9 0h-.1.1z" />
+  <path
+     id="path4508"
+     d="M346.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#5e5e5e" />
+  <path
+     id="path4510"
+     fill="none"
+     d="M500.5 200zm77-133.4h-.1.1z" />
+  <path
+     id="path4512"
+     d="M385 266.5h76.9l-38.4-66.5-38.5 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4514"
+     d="M423.5 199.9l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+     fill="#5e5e5e" />
+  <path
+     id="path4516"
+     d="M423.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#5d5d5d" />
+  <path
+     id="path4518"
+     fill="none"
+     d="M346.6 199.9h-.1.1zm192.4 66.7z" />
+  <path
+     id="path4520"
+     d="M500.5 199.9l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8zm-38.5 66.6l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+     fill="#606060" />
+  <path
+     id="path4522"
+     d="M346.6 333.2h76.9l-38.5-66.6-38.4 66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4524"
+     d="M461.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#606060" />
+  <path
+     id="path4526"
+     d="M423.5 333.2h76.9l-38.4-66.6-38.5 66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4528"
+     fill="none"
+     d="M577.4 200zm38.5-66.6z" />
+  <path
+     id="path4530"
+     d="M539 133.3l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+     fill="#5f5f5f" />
+  <path
+     id="path4532"
+     d="M154 133.4l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5z"
+     fill="#616161" />
+  <path
+     id="path4534"
+     d="M154 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#606060" />
+  <path
+     id="path4536"
+     d="M115.6 333.2h76.9l-38.5-66.6-38.4 66.6zm-.1-133.2l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4538"
+     d="M154.1 266.5l38.4-66.5-.1-.1h-76.9l-.1.1 38.4 66.5h.3z"
+     fill="#5f5f5f" />
+  <path
+     id="path4540"
+     fill="none"
+     d="M115.5 199.9h.1-.1z" />
+  <path
+     id="path4542"
+     d="M231 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4544"
+     d="M269.6 333.2h76.9l-38.5-66.6-38.4 66.6z"
+     fill="#616161" />
+  <path
+     id="path4546"
+     d="M307.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6zm-115.3 66.7h76.9l-38.5-66.6-38.4 66.6z"
+     fill="#606060" />
+  <path
+     id="path4548"
+     d="M384.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+     fill="#626262" />
+  <path
+     id="path4550"
+     d="M308.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4552"
+     d="M615.9 266.5l-38.5-66.5-38.4 66.5h76.9z"
+     fill="#626262" />
+  <path
+     id="path4554"
+     d="M462 133.4l-38.4 66.5h76.9l-38.5-66.5zm0-133.3l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4556"
+     d="M539 .1l-38.4 66.5h76.9l-38.5-66.5zm-500.4 333.1h76.9l-38.5-66.6-38.4 66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4558"
+     d="M.1 133.3h76.9l-38.4-66.6-38.5 66.6z"
+     fill="#5e5e5e" />
+  <path
+     id="path4560"
+     fill="none"
+     d="M77 266.5h.1-.1zm0-133.2h.1-.1z" />
+  <path
+     id="path4562"
+     d="M38.6 199.9h76.9l-38.5-66.5-38.4 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4564"
+     fill="none"
+     d="M0 266.5h.1-.1z" />
+  <path
+     id="path4566"
+     d="M115.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4568"
+     d="M77 .1l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4570"
+     d="M231 .1l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4572"
+     d="M308 .1l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4574"
+     d="M385 .1l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4576"
+     d="M154 .1l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4578"
+     d="M577.4 333.2l-38.4-66.6-38.4 66.5h76.8z"
+     fill="#5e5e5e" />
+  <path
+     id="path4580"
+     fill="none"
+     d="M154 266.6z" />
+  <path
+     id="path4582"
+     d="M154.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4584"
+     d="M192.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4586"
+     fill="none"
+     d="M231 266.6zm77 0z" />
+  <path
+     id="path4588"
+     d="M385 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#606060" />
+  <path
+     id="path4590"
+     fill="none"
+     d="M192.5 199.9h.1-.1z" />
+  <path
+     id="path4592"
+     d="M308 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4594"
+     fill="none"
+     d="M385 266.6z" />
+  <path
+     id="path4596"
+     d="M231 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#616161" />
+  <path
+     id="path4598"
+     d="M115.6 199.9h76.9l-38.5-66.5-38.4 66.5z"
+     fill="#626262" />
+  <path
+     id="path4600"
+     d="M346.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#606060" />
+  <path
+     id="path4602"
+     fill="none"
+     d="M462 266.6z" />
+  <path
+     id="path4604"
+     d="M269.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4606"
+     d="M500.5 66.7l-38.5 66.6h76.9l-38.4-66.6z"
+     fill="#5e5e5e" />
+  <path
+     id="path4608"
+     d="M423.5 66.7l-38.5 66.6h76.9l-38.4-66.6z"
+     fill="#606060" />
+  <path
+     id="path4610"
+     d="M577.4 66.7l-38.4 66.6h76.9l-38.5-66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4612"
+     d="M577.4 199.9l-38.4-66.5-38.4 66.5h76.8z"
+     fill="#626262" />
+  <path
+     id="path4614"
+     d="M538.9 266.5l-38.4-66.5-38.5 66.5h76.9z"
+     fill="#626262" />
+  <path
+     id="path4616"
+     fill="none"
+     d="M539 133.3h-.1.1z" />
+  <path
+     id="path4618"
+     d="M115.5 66.6h.1l38.4-66.5v-.1h-76.9l-.1.1 38.5 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4620"
+     d="M538.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4622"
+     fill="none"
+     d="M77.1 0h-.1.1z" />
+  <path
+     id="path4624"
+     d="M577.4 66.6h.1l38.5-66.6h-77v.1l38.4 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4626"
+     fill="none"
+     d="M154.1 0h-.1.1z" />
+  <path
+     id="path4628"
+     d="M192.5 66.6h.1l38.4-66.5v-.1h-76.9l-.1.1 38.5 66.5z"
+     fill="#626262" />
+  <path
+     id="path4630"
+     fill="none"
+     d="M462 0h-.1.1zm77 0h-.1.1z" />
+  <path
+     id="path4632"
+     d="M500.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+     fill="#606060" />
+  <path
+     id="path4634"
+     fill="none"
+     d="M385 0h-.1.1z" />
+  <path
+     id="path4636"
+     d="M423.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+     fill="#5e5e5e" />
+  <path
+     id="path4638"
+     d="M346.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4640"
+     fill="none"
+     d="M231.1 0h-.1.1z" />
+  <path
+     id="path4642"
+     d="M269.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4644"
+     fill="none"
+     d="M308.1 0h-.1.1z" />
+  <path
+     id="path4646"
+     d="M38.6 66.6l38.4-66.5v-.1h-77l38.5 66.6h.1z"
+     fill="#5e5e5e" />
+  <path
+     id="path4648"
+     fill="none"
+     d="M461.9 400h.1-.1z" />
+  <path
+     id="path4650"
+     d="M500.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#606060" />
+  <path
+     id="path4652"
+     d="M346.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#626262" />
+  <path
+     id="path4654"
+     fill="none"
+     d="M384.9 400h.1-.1z" />
+  <path
+     id="path4656"
+     d="M423.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#616161" />
+  <path
+     id="path4658"
+     fill="none"
+     d="M538.9 400h.1-.1z" />
+  <path
+     id="path4660"
+     d="M539 399.9l77 .1-38.6-66.7-38.4 66.6z"
+     fill="#5e5e5e" />
+  <path
+     id="path4662"
+     d="M38.6 333.3l-38.6 66.7h77l.1-.1-38.5-66.6z"
+     fill="#626262" />
+  <path
+     id="path4664"
+     fill="none"
+     d="M77 400h.1-.1zm230.9 0h.1-.1z" />
+  <path
+     id="path4666"
+     d="M115.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#636363" />
+  <path
+     id="path4668"
+     fill="none"
+     d="M231 400h.1-.1z" />
+  <path
+     id="path4670"
+     d="M269.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#626262" />
+  <path
+     id="path4672"
+     fill="none"
+     d="M154 400h.1-.1z" />
+  <path
+     id="path4674"
+     d="M192.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+     fill="#626262" />
+  <path
+     id="path4676"
+     fill="none"
+     d="M115.6 66.6h-.1.1z" />
+  <path
+     id="path4678"
+     d="M77 133.4l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4680"
+     fill="none"
+     d="M0 133.3h.1-.1z" />
+  <path
+     id="path4682"
+     d="M77 133.3h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4684"
+     fill="none"
+     d="M38.5 333.2h.1-.1z" />
+  <path
+     id="path4686"
+     d="M38.5 333.2l-38.4-66.6-.1.1v66.4h38.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4688"
+     d="M38.5 199.9l-38.4-66.5-.1.1v66.4h38.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4690"
+     d="M0 266.5h.1l38.5-66.5-.1-.1h-38.5v66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4692"
+     d="M0 400l38.6-66.7-.1-.1h-38.5v66.8z"
+     fill="#5f5f5f" />
+  <path
+     id="path4694"
+     d="M38.5 66.6l-38.5-66.6v66.6h38.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4696"
+     d="M0 133.3h.1l38.4-66.5-.1-.1h-38.4v66.6z"
+     fill="#5f5f5f" />
+  <path
+     id="path4698"
+     fill="none"
+     d="M38.5 199.9h.1-.1z" />
+  <path
+     id="path4700"
+     d="M38.6 200l-38.5 66.5h76.9l-38.4-66.5zm38.4 66.6l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5zm.1-.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5h.1z"
+     fill="#5f5f5f" />
+  <path
+     id="path4702"
+     fill="none"
+     d="M38.6 66.6h-.1.1zm308 0h-.1.1z" />
+  <path
+     id="path4704"
+     d="M384.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4706"
+     fill="none"
+     d="M423.5 66.6h-.1.1z" />
+  <path
+     id="path4708"
+     d="M461.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#626262" />
+  <path
+     id="path4710"
+     d="M154 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4712"
+     fill="none"
+     d="M500.5 66.6h-.1.1zm-307.9 0h-.1.1z" />
+  <path
+     id="path4714"
+     d="M231 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#5f5f5f" />
+  <path
+     id="path4716"
+     fill="none"
+     d="M269.6 66.6h-.1.1z" />
+  <path
+     id="path4718"
+     d="M307.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+     fill="#606060" />
+  <path
+     id="path4720"
+     fill="none"
+     d="M615.9 266.6zm-38.5 66.7z" />
+  <path
+     id="path4722"
+     d="M539 266.5l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+     fill="#5c5c5c" />
+  <path
+     id="path4724"
+     fill="none"
+     d="M500.4 333.2h.1-.1z" />
+  <path
+     id="path4726"
+     d="M500.5 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+     fill="#616161" />
+  <path
+     id="path4728"
+     d="M423.5 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8zm-384.9 0l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+     fill="#626262" />
+  <path
+     id="path4730"
+     d="M577.5 66.6l38.4 66.6v-66.6h-38.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4732"
+     d="M615.9 133.5l-38.4 66.4h38.4v-66.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4734"
+     d="M615.9 266.7l-38.4 66.4h38.4v-66.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4736"
+     d="M577.5 333.2l38.4 66.6v-66.6h-38.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4738"
+     d="M615.9.2l-38.4 66.4h38.4v-66.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4740"
+     d="M577.5 199.9l38.4 66.6v-66.6h-38.4z"
+     fill="#5f5f5f" />
+  <path
+     id="path4742"
+     d="M192.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+     fill="#626262" />
+  <path
+     id="path4744"
+     d="M115.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+     fill="#636363" />
+  <path
+     id="path4746"
+     fill="none"
+     d="M192.5 333.2h.1-.1zm-77 0h.1-.1z" />
+  <path
+     id="path4748"
+     d="M269.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8zm77 0l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+     fill="#626262" />
+  <path
+     id="path4750"
+     fill="none"
+     d="M346.4 333.2h.1-.1zm-77 0h.1-.1zm154 0h.1-.1z" />
+</svg>
